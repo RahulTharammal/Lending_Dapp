@@ -1,4 +1,4 @@
-**Lending Platform: Cryptocurrency Lending DApp**
+## Lending Platform: Cryptocurrency Lending DApp
 
 Welcome to the Cryptocurrency Lending DApp repository! This platform enables users to lend and borrow cryptocurrencies in a decentralized manner. Built on blockchain technology, this DApp ensures security, transparency, and efficiency in lending and borrowing processes.
 
